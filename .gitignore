@@ -1,0 +1,14 @@
+# Downloaded datasets and generated data splits
+PetV_data/
+
+# Local Python environment and cache files
+.venv/
+__pycache__/
+*.pyc
+
+# Trained model checkpoints
+PetV_results/checkpoints/
+
+# macOS metadata files
+.DS_Store
+._*
