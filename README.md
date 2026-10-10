@@ -6,6 +6,7 @@ A pet breed classification project using PyTorch and the Oxford-IIIT Pet dataset
 
 - **M1:** A baseline convolutional neural network.
 - **M2:** An improved model with data augmentation, batch normalization, and dropout.
+- **M3:** 
 
 ## Project Files
 
